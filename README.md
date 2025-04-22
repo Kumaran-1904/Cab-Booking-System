@@ -77,48 +77,12 @@ CabBookingSystem/
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/cab-booking-system.git
-   ```
-
-2. **Navigate to the project folder**
-   ```bash
-   cd cab-booking-system
-   ```
-
-3. **Compile the source files**
-   ```bash
-   javac main/Main.java Controller/*.java DAO/*.java Model/*.java View/*.java
-   ```
-
-4. **Run the application**
-   ```bash
-   java main.Main
-   ```
-
----
-
 ## 🎓 Learning Outcomes
 
 - Apply MVC design pattern in Java applications
 - Implement object-oriented principles (encapsulation, modularity)
 - Develop console-based interfaces with user input handling
 - Manage in-memory data operations without a database
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute for educational purposes.
-
----
-
-## ❓ Contributions & Feedback
-
-Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
 ---
 
